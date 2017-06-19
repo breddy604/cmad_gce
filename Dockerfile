@@ -4,4 +4,4 @@ MAINTAINER babandi@cisco.com
 
 COPY QAForum-fat.jar .
 
-CMD ["java","-jar","QAForum-fat.jar", "-DMONGOHOST=mongohost"]
+CMD ["java","-jar","QAForum-fat.jar", "-DMONGOHOST=35.184.14.50"]
